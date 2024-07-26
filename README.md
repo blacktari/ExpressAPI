@@ -136,5 +136,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [SQLite](https://www.sqlite.org/)
 - [express-validator](https://express-validator.github.io/)
 ````
-
-This structure includes detailed descriptions and expected responses for the API endpoints, making it more comprehensive and useful.
